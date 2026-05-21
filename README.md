@@ -2,6 +2,17 @@
 
 > 把你的 AI 对话接口变成 OpenAI 兼容 API，**完全免费使用 DeepSeek V4 Pro/Flash、Kimi、GLM、Qwen、MiniMax、Perplexity、Z.ai**！
 
+[![GitHub Sponsors](https://img.shields.io/badge/Sponsor-GitHub%20Sponsors-ea4aaa?logo=github)](https://github.com/sponsors/a918124259a)
+
+## 赞助 / 捐赠
+
+如果你觉得这个项目有用，欢迎赞助支持持续开发：
+
+| 方式 | 地址 |
+|------|------|
+| 💰 GitHub Sponsors | [点击赞助](https://github.com/sponsors/a918124259a) |
+| ⚡ ETH 捐赠 | `0x12b0800Fc8fBB4EBc35576fe1b322F19B3cDb1D6` |
+
 ## 这是什么？
 
 Chat2API 是一个桌面应用，它把各大 AI 网站的免费对话接口，转成标准的 `/v1/chat/completions` API（兼容 OpenAI SDK）。
